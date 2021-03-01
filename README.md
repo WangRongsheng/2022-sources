@@ -29,7 +29,9 @@
 
 |科目名称|授课人|相关链接|
 |:-|:-|:-|
-|政治|肖秀荣、徐涛、陆寓丰|【[徐涛政治班](https://class.hujiang.com/18389713/intro)】【[最知教育-肖秀荣课程](https://zuizhi.ke.qq.com/)】|
+|政治|肖秀荣|【[最知教育-肖秀荣课程](https://zuizhi.ke.qq.com/)】|
+||徐涛|【[徐涛政治班](https://class.hujiang.com/18389713/intro)】|
+||陆寓丰||
 
 |科目名称|课程资料|
 |:-|:-|
