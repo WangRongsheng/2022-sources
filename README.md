@@ -12,13 +12,13 @@
 
 |科目名称|课程资料|
 |:-|:-|
-|数学|【[汤家凤1800题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%941800) 】【[张宇1000题](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%871000%E9%A2%98) 】【[李永乐660题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%94660) 】【[李林880题](https://s.taobao.com/search?q=%E6%9D%8E%E6%9E%97880%E9%A2%98) 】【[张宇30讲](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%87%E5%9F%BA%E7%A1%8030%E8%AE%B2) 】【[必考词汇应用全书（文都教育1575）](https://s.taobao.com/search?q=%E6%96%87%E9%83%BD%E6%95%99%E8%82%B2+1575) 】|
+|数学|【[汤家凤1800题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%941800) 】【[张宇1000题](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%871000%E9%A2%98) 】【[李永乐660题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%94660) 】【[李林880题](https://s.taobao.com/search?q=%E6%9D%8E%E6%9E%97880%E9%A2%98) 】【[张宇30讲](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%87%E5%9F%BA%E7%A1%8030%E8%AE%B2) 】|
 
 ### 2、英语
 
 |英语|资料|
 |:-|:-|
-|单词|【[恋练有词](https://s.taobao.com/search?q=%E6%81%8B%E7%BB%83%E6%9C%89%E8%AF%8D) 】【[非常词汇](https://s.taobao.com/search?q=%E9%9D%9E%E5%B8%B8%E8%AF%8D%E6%B1%87) 】【[十天搞定考研词汇](https://s.taobao.com/search?q=%E5%8D%81%E5%A4%A9%E6%90%9E%E5%AE%9A%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87) 】【[考研英语红宝书考研英语词汇（红宝书）](https://s.taobao.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%BA%A2%E5%AE%9D%E4%B9%A6%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87) 】【[新东方·考研英语词汇词根+联想记忆法:乱序版（绿皮书）](https://s.taobao.com/search?q=%E6%96%B0%E4%B8%9C%E6%96%B9%C2%B7%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E8%AF%8D%E6%A0%B9%2B%E8%81%94%E6%83%B3%E8%AE%B0%E5%BF%86%E6%B3%95%3A%E4%B9%B1%E5%BA%8F%E7%89%88)】|
+|单词|【[恋练有词](https://s.taobao.com/search?q=%E6%81%8B%E7%BB%83%E6%9C%89%E8%AF%8D) 】【[非常词汇](https://s.taobao.com/search?q=%E9%9D%9E%E5%B8%B8%E8%AF%8D%E6%B1%87) 】【[十天搞定考研词汇](https://s.taobao.com/search?q=%E5%8D%81%E5%A4%A9%E6%90%9E%E5%AE%9A%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87) 】【[考研英语红宝书考研英语词汇（红宝书）](https://s.taobao.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%BA%A2%E5%AE%9D%E4%B9%A6%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87) 】【[新东方·考研英语词汇词根+联想记忆法:乱序版（绿皮书）](https://s.taobao.com/search?q=%E6%96%B0%E4%B8%9C%E6%96%B9%C2%B7%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E8%AF%8D%E6%A0%B9%2B%E8%81%94%E6%83%B3%E8%AE%B0%E5%BF%86%E6%B3%95%3A%E4%B9%B1%E5%BA%8F%E7%89%88)】【[必考词汇应用全书（文都教育1575）](https://s.taobao.com/search?q=%E6%96%87%E9%83%BD%E6%95%99%E8%82%B2+1575) 】|
 |真题||
 
 ### 3、政治
