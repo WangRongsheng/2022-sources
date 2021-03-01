@@ -8,6 +8,9 @@
 |:-|:-|:-|
 |高等数学|汤家凤|【[文都教育-汤家凤介绍](https://www.wendu.com/teacher/kaoyan/ggk/shuxue/15.shtml) 】|
 |线性代数|李永乐||
+|概率论||
+
+### 英语
 
 ## 📣考研讯息
 
