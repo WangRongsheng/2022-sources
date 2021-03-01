@@ -12,7 +12,7 @@
 
 |科目名称|课程资料|
 |:-|:-|
-|高等数学|【[汤家凤1800题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%941800)】|
+|高等数学|【[汤家凤1800题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%941800)】【[张宇1000题](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%871000%E9%A2%98)】|
 |线性代数||
 |概率论||
 
