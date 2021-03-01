@@ -63,6 +63,7 @@
 11. <a href="http://www.cdgdc.edu.cn/">中国学位与研究生教育信息网</a>
 12. <a href="https://www.baoyantong.cn/xlysearch/">考研夏令营一键搜索系统</a>
 13. <a href="http://bbs.kaoyan.com/">考研论坛</a>
+14. [中国高等教育学生信息网（学信网）](https://www.chsi.com.cn/)
 
 ## 📒复习资料
 
