@@ -9,7 +9,7 @@
 |高等数学|汤家凤|【[文都教育-汤家凤介绍](https://www.wendu.com/teacher/kaoyan/ggk/shuxue/15.shtml) 】|
 ||张宇||
 |线性代数|李永乐|【[李永乐线性代数课程](https://ke.qq.com/course/180163)】|
-|概率论||
+|概率论|王式安||
 
 |科目名称|课程资料|
 |:-|:-|
