@@ -1,4 +1,6 @@
-> <p align="center"> 👨‍🎓 神仙考研资料合集</p>
+<img href="https://github.com/WangRongsheng/2022-sources/blob/main/img/home.gif">
+
+<p align="center"> 👨‍🎓 神仙考研资料合集</p>
 
 ## ✒️初试备考
 
