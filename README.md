@@ -12,7 +12,7 @@
 
 |科目名称|课程资料|
 |:-|:-|
-|数学|【[汤家凤1800题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%941800) 】【[张宇1000题](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%871000%E9%A2%98) 】【[李永乐660题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%94660) 】【[李林880题](https://s.taobao.com/search?q=%E6%9D%8E%E6%9E%97880%E9%A2%98) 】|
+|数学|【[汤家凤1800题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%941800) 】【[张宇1000题](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%871000%E9%A2%98) 】【[李永乐660题](https://s.taobao.com/search?q=%E8%80%83%E7%A0%94660) 】【[李林880题](https://s.taobao.com/search?q=%E6%9D%8E%E6%9E%97880%E9%A2%98) 】【[张宇30讲](https://s.taobao.com/search?q=%E5%BC%A0%E5%AE%87%E5%9F%BA%E7%A1%8030%E8%AE%B2) 】|
 
 ### 2、英语
 
