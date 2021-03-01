@@ -59,6 +59,7 @@
 ## 📺B站相关
 
 1. [考研斯基](https://space.bilibili.com/431748468/)
+2. [灰灰考研](https://space.bilibili.com/102003312/)
 
 
 
