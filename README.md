@@ -6,7 +6,7 @@
 
 |科目名称|授课人|相关链接|
 |:-|:-|:-|
-|高等数学|汤家凤|[文都教育-汤家凤](https://www.wendu.com/teacher/kaoyan/ggk/shuxue/15.shtml)|
+|高等数学|汤家凤|[【文都教育-汤家凤介绍】](https://www.wendu.com/teacher/kaoyan/ggk/shuxue/15.shtml)|
 |线性代数|李永乐||
 
 ## 📣考研讯息
