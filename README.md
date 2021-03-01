@@ -56,6 +56,10 @@
 2. [安心考研-资料分享](http://axky.ys168.com/)
 3. [计算机历年考研真题](https://github.com/csseky/cskaoyan)
 
+## 📺B站相关
+
+1. [考研斯基](https://space.bilibili.com/431748468/)
+
 
 
 
