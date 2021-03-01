@@ -54,6 +54,7 @@
 
 1. [计算机考研小站](https://www.88pu.top/)
 2. [安心考研-资料分享](http://axky.ys168.com/)
+3. [计算机历年考研真题](https://github.com/csseky/cskaoyan)
 
 
 
