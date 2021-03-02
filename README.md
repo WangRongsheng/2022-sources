@@ -1,3 +1,6 @@
+- ([初试备考](##初试备考))
+  - ([数学](###数学))
+
 ![2022一定上岸](https://github.com/WangRongsheng/2022-sources/blob/main/img/home.gif)
 
 <p align="center"> 👨‍🎓 神仙考研资料合集</p>
