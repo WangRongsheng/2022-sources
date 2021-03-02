@@ -83,6 +83,7 @@
 1. 灰灰考研
 2. 计算机与软件考研
 3. 小白考研
+4. 毛哥考研政治
 
 > 更多考研公众号：[研究生-微信公众号](https://github.com/WangRongsheng/for-Graduate_student)
 
