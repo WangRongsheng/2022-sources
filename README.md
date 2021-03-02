@@ -1,4 +1,4 @@
-- [✒️初试备考](#✒️初试备考)
+- [✒️初试备考](#%EF%B8%8F初试备考)
   - [1、数学](#1数学)
 
 ![2022一定上岸](https://github.com/WangRongsheng/2022-sources/blob/main/img/home.gif)
