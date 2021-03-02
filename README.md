@@ -1,15 +1,3 @@
-<a name="index">**Index**</a>
-&emsp;<a href="#0">✒️初试备考</a>  
-&emsp;&emsp;<a href="#1">1、数学</a>  
-&emsp;&emsp;<a href="#2">2、英语</a>  
-&emsp;&emsp;<a href="#3">3、政治</a>  
-&emsp;&emsp;<a href="#4">4、专业课</a>  
-&emsp;<a href="#5">📣考研讯息</a>  
-&emsp;<a href="#6">📒复习资料</a>  
-&emsp;<a href="#7">📺B站相关</a>  
-&emsp;<a href="#8">📱考研公众号</a>  
-&emsp;<a href="#9">📲考研小程序</a>  
-
 ![2022一定上岸](https://github.com/WangRongsheng/2022-sources/blob/main/img/home.gif)
 
 <p align="center"> 👨‍🎓 神仙考研资料合集</p>
